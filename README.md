@@ -1,16 +1,8 @@
-# a7med
+# Hospital of imam abdulrahman bin faisal university (HIAU)
 
 A new Flutter project.
 
-## Getting Started
+## Information
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hospital of imam abdulrahman bin faisal university ask us to create a tests application to give the users the tests they need  by entering they non-paranal
+information without logging in. 
